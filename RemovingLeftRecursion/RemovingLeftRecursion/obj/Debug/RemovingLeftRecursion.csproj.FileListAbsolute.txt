@@ -1,0 +1,6 @@
+D:\LAST SEMESTER\C.C\RemovingLeftRecursion\RemovingLeftRecursion\bin\Debug\RemovingLeftRecursion.exe.config
+D:\LAST SEMESTER\C.C\RemovingLeftRecursion\RemovingLeftRecursion\obj\Debug\RemovingLeftRecursion.csprojResolveAssemblyReference.cache
+D:\LAST SEMESTER\C.C\RemovingLeftRecursion\RemovingLeftRecursion\bin\Debug\RemovingLeftRecursion.exe
+D:\LAST SEMESTER\C.C\RemovingLeftRecursion\RemovingLeftRecursion\bin\Debug\RemovingLeftRecursion.pdb
+D:\LAST SEMESTER\C.C\RemovingLeftRecursion\RemovingLeftRecursion\obj\Debug\RemovingLeftRecursion.exe
+D:\LAST SEMESTER\C.C\RemovingLeftRecursion\RemovingLeftRecursion\obj\Debug\RemovingLeftRecursion.pdb
